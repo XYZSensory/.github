@@ -14,8 +14,3 @@ The many projects in our lab can be categorized under two main themes, one aimin
 We welcome collaboration and inquiries. Feel free to reach out:
 - 🌐 Website: [xyzsensorylab.org]([https://xyzsensorylab.org](https://xyzsensorylab.com/))
 - 📬 Email: yxiong36 AT jh.edu
-
-
-Thanks for visiting!
-
-— The XYZSensory Lab Team
